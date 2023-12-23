@@ -6,4 +6,4 @@ To view this analysis, you can download the CSV file and IPYNB file and upload t
 
 You can view the analysis using following link
 
-[![Click Me](https://img.shields.io/badge/Visit-My%20Website-blue)](https://gist.github.com/NarendraTawade/1e944cfaa1802b2d78180187dd8f1604)
+[![Click Me](https://img.shields.io/badge/Click%20me-blue)](https://gist.github.com/NarendraTawade/1e944cfaa1802b2d78180187dd8f1604)
